@@ -1,0 +1,6 @@
+The Credit Card Fraud Detection project uses deep learning to identify fraudulent transactions  
+within a highly imbalanced dataset. It applies **SMOTE** to balance data and improve model  
+learning. Using **TensorFlow** and **Keras**, the neural network is trained with different  
+activation functions and optimizers to find the best configuration. Metrics such as Precision,  
+Recall, F1-Score, and Accuracy evaluate performance. The project highlights how preprocessing,  
+data balancing, and fine-tuning significantly enhance fraud detection accuracy and financial security.  
